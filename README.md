@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timawid
+- 👋 Hi, I’m @timawid
 - 👀 I’m interested in Web develoment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
