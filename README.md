@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @timawid
-- 👀 I’m interested in Web develoment
+- 👀 I’m interested in FrontEnd develoment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 Twiiter; @timawid
+- 📫 X; @timawid
 
 <!---
 Timawid/Timawid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
